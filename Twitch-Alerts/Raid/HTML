@@ -1,0 +1,20 @@
+<div id="wrap"> 
+  <div id="alert-box">
+    <div id="alert-text-wrap">
+      <div id="alert-text">
+        <div id="alert-message">
+          <video autoplay muted loop playsinline>
+            <source src="https://scorpio63000.github.io/Overlay-Twitch/Twitch-Alerts/media/104.mp4" type="video/mp4" />
+          </video>
+          <div class="shine">
+            <div class="line1">{name} !</div>
+            <div class="line2">Débarque avec {count} viewers !</div>
+          </div>
+        </div>
+        <audio id="follow-sound" autoplay>
+          <source src="https://scorpio63000.github.io/Overlay-Twitch/Twitch-Alerts/media/welcome-raiders.mp3" type="audio/mpeg" />
+        </audio>
+      </div>
+    </div>
+  </div>
+</div>
